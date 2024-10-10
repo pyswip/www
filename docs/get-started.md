@@ -6,20 +6,22 @@
 * SWI-Prolog 8.4.2 or later
 * 64bit Intel or ARM processor
 
-> [!IMPORTANT]
-> Make sure the SWI-Prolog architecture is the same as the Python architecture.
-> If you are using a 64bit build of Python, use a 64bit build of SWI-Prolog, etc.
+::: warning
+Make sure the SWI-Prolog architecture is the same as the Python architecture.
+If you are using a 64bit build of Python, use a 64bit build of SWI-Prolog, etc.
+:::
 
 ## Installing on All Platforms
 
 PySwip is available to install from [Python Package Index](https://pypi.org/project/pyswip/).
 
-> [!NOTE]
-> We recommend installing PySwip into a Python virtual environment.
-> See: [Creation of virtual environments](https://docs.python.orgs/3/library/venv.html)
+::: tip
+We recommend installing PySwip into a Python virtual environment.
+See: [Creation of virtual environments](https://docs.python.orgs/3/library/venv.html)
+:::
 
 You can install PySwip using:
-```
+```:no-line-numbers
 pip install pyswip
 ```
 
@@ -34,12 +36,12 @@ Otherwise, you can use the following environment variables:
 * `LIBSWIPL_PATH` - The location of the `libswipl` shared library.
 
 You can get the locations mentioned above using the following commands:
-```
+```:no-line-numbers
 swipl --dump-runtime-variables
 ```
 
 That will output something like:
-```
+```:no-line-numbers
 PLBASE="/home/yuce/swipl-9.3.8/lib/swipl";
 ...
 PLLIBDIR="/home/yuce/swipl-9.3.8/lib/swipl/lib/x86_64-linux";
@@ -52,26 +54,26 @@ Use the value in the `PLLIBDIR` variable as the value for the `LIBSWIPL_PATH` en
 ### Arch Linux
 
 Installing SWI-Prolog:
-```
+```:no-line-numbers
 pacman -S swi-prolog
 ```
 
 Installing PySwip:
 (Alternative to the `pip install` way explained above)
-```
+```:no-line-numbers
 pacman -S python-pyswip
 ```
 
 ### Fedora Workstation
 
 Installing SWI-Prolog:
-```
+```:no-line-numbers
 dnf install pl
 ```
 
 Installing PySwip:
 (Alternative to the `pip install` way explained above)
-```
+```:no-line-numbers
 dnf install python3-pyswip
 ```
 
@@ -105,7 +107,7 @@ The preferred way of installing SWI-Prolog on MacOS is using [Homebrew](https://
 ### Homebrew
 
 Installing SWI-Prolog:
-```
+```:no-line-numbers
 brew install swi-prolog
 ```
 
@@ -116,7 +118,7 @@ To install PySwip, use the `pip install` way explained above.
 Install SWI-Prolog from https://www.swi-prolog.org/Download.html.
 
 If you get an error like `libgmp.X not found`, you have to set the `DYLD_FALLBACK_LIBRARY_PATH` environment variable before running Python:
-```
+```:no-line-numbers
 export DYLD_FALLBACK_LIBRARY_PATH=/Applications/SWI-Prolog.app/Contents/Frameworks
 ```
 
@@ -127,7 +129,7 @@ To install PySwip, use the `pip install` way explained above.
 ### OpenBSD
 
 Install SWI-Prolog using the following on OpenBSD 7.6 and later:
-```
+```:no-line-numbers
 pkg_add swi-prolog
 ```
 
@@ -136,7 +138,7 @@ To install PySwip, use the `pip install` way explained above.
 ### FreeBSD
 
 SWI-Prolog can be installed using `pkg`:
-```
+```:no-line-numbers
 pkg install swi-pl
 ```
 
