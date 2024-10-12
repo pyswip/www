@@ -11,7 +11,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: '/images/pyswip_logo_sm_256colors.gif',
 
-    navbar: ['/', '/get-started', '/community'],
+    navbar: ['/', '/get-started', '/community', '/change-log'],
   }),
 
   bundler: viteBundler(),
