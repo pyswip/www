@@ -1,10 +1,10 @@
 # Change Log
 
-## 0.3.1 (Not Released)
+## v0.3.1 (Not Released)
 
 *No changes yet*
 
-## 0.3.0
+## v0.3.0
 
 * Improve list representations, unicode support and multiple threading usage, see: [97](https://github.com/yuce/pyswip/pull/97). Contributed by Guglielmo Gemignani.
 * Added PL_STRINGS_MARK to getAtomChars, fixes [102](https://github.com/yuce/pyswip/issues/102). Contributed by Vince Jankovics.
@@ -18,7 +18,7 @@
 * Added hardcoded path for `libswipl.so` [43](https://github.com/yuce/pyswip/pull/43). Contributed by Kumar Abhinav.
 * Fixed not finding swipl lib file when there are multiple options [153](https://github.com/yuce/pyswip/pull/153). Contributed by AdiHarif.
 
-## 0.2.10
+## v0.2.10
 
 * Synchronized type constants with SWI-Prolog.h
   update for broken compatibility changes in SWI-Prolog.h up to 0.8.3.
@@ -32,30 +32,30 @@
 * Fixed compatibility with SWI-Prolog 8.2.0. Contributed by Stuart Reynolds.
 * Fixed compatibility with MacOS. Contributed by prologrules and Dylan Lukes.
 
-## 0.2.9
+## v0.2.9
 
 * Added non deterministic foreign function support. Contributed by rmanhaeve.
 * Fixed issue [#67](https://github.com/yuce/pyswip/pull/67). Contributed by Galileo Sartor.
 
-## 0.2.8
+## v0.2.8
 
 * Fixed issue [#35](https://github.com/yuce/pyswip/issues/35). Contributed by Robert Simione.
 
-## 0.2.7
+## v0.2.7
 
 * Works on FreeBSD.
 
-## 0.2.6
+## v0.2.6
 
 * Fixed issue [#9](https://github.com/yuce/pyswip/issues/9).
 * Fixed issue [#10](https://github.com/yuce/pyswip/issues/10).
 
-## 0.2.5
+## v0.2.5
 
 * Project cleanup
 * Updated the examples for Python 3.
 
-## 0.2.4
+## v0.2.4
 
 * Maintenance release of PySwip
 * Added an error to avoid opening nested queries using PySwip (SWI-Prolog does
@@ -67,7 +67,7 @@
 * Solved issue 3: "Problem with variables in lists"
 * Solved issue 17: "Can't find SWI-Prolog library in Homebrew's /usr/local"
 
-## 0.2.3
+## v0.2.3
 
 * Maintenance release of PySwip
 * Solved issue "Segmentation fault when assertz-ing" (thanks to jpthompson23)
@@ -76,17 +76,17 @@
 * Solved issue "Improve library loading"
 * Solved issue "sys.exit does not work when importing pyswip"
 
-## 0.2.2
+## v0.2.2
 
 * PySwip won't rely on the (id of the) functor handle of `=/2`.
 * Sebastian Höhn's patch to enable PySwip to work on MAC OS-X is incorporated.
 
-## 0.2.1
+## v0.2.1
 
 * Importing `pyswip` automatically initializes SWI-Prolog.
 * Fixed a bug with querying lists with the new interface.
 
-## 0.2.0
+## v0.2.0
 
 * All names are included with `from pyswip import ...`
 * New *Pythonic* interface
@@ -95,7 +95,7 @@
 * Prolog module support
 * Foreign functions retrieve Python datatypes.
 
-## 0.1.3
+## v0.1.3
 
 * Renamed `pyswip/util.py` to `pyswip/prolog.py`.
 * New module `pyswip.easy`.
@@ -106,7 +106,7 @@
   function as an SWI-Prolog predicate.
 * Added example, *Towers of Hanoi*
 
-## 0.1.2
+## v0.1.2
 
 * Renamed `PrologRunner` to `Prolog`.
 * Removed `query` method of `Prolog`, `queryGenerator` is renamed as `query`.
@@ -117,7 +117,7 @@
 * Added `examples` directory.
 * Added examples, *coins* and *draughts*.
 
-## 0.1.1
+## v0.1.1
 
 * Added `queryGenerator` to PrologRunner, `query` calls `queryGenerator`.
 * Added example `send more money`.
