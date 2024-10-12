@@ -6,7 +6,7 @@
 * SWI-Prolog 8.4.2 or later
 * 64bit Intel or ARM processor
 
-::: warning
+::: warning Important
 Make sure the SWI-Prolog architecture is the same as the Python architecture.
 If you are using a 64bit build of Python, use a 64bit build of SWI-Prolog, etc.
 :::

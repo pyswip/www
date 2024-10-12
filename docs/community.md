@@ -1,10 +1,19 @@
 
 # Community
 
+**Do you have a project, video or publication that uses/mentions PySwip?**
+**[file an issue](https://github.com/yuce/pyswip/issues/new?title=Powered%20by%20PySwip) or send a pull request.**
+
+If you would like to reference PySwip in a LaTeX document, you can use the provided [BibTeX file](pyswip.bibtex).
+
 ## Help!
 
 * [Google Groups](https://groups.google.com/forum/#!forum/pyswip)
 * [Stack Overflow](https://stackoverflow.com/search?q=pyswip)
+
+## Companies Using PySwip
+
+* [Magazino GmbH](https://www.magazino.eu/?lang=en) Magazino develops and builds intelligent, mobile robots for intralogistics.
 
 ## Books
 

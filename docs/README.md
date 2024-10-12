@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: pyswip_logo_sm_256colors.gif
+heroImage: /images/pyswip_logo_sm_256colors.gif
 actions:
   - text: Get Started
     link: /get-started.html

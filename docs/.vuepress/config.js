@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: 'Python-Prolog Interface',
 
   theme: defaultTheme({
-    logo: 'https://yuce.me/images/pyswip_logo_sm_256colors.gif',
+    logo: '/images/pyswip_logo_sm_256colors.gif',
 
     navbar: ['/', '/get-started', '/community'],
   }),
