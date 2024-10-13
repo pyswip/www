@@ -1,8 +1,8 @@
-# Change Log
+# What's New?
 
 ## v0.3.1 (Not Released)
 
-*No changes yet*
+See [What's New in v0.3.1](whats-new/v0.3.1)
 
 ## v0.3.0
 
