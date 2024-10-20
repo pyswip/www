@@ -51,6 +51,14 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Building a Fuzzy Expert System for Assessing the Severity of Pneumonia](https://www.researchgate.net/publication/363190862_Building_a_Fuzzy_Expert_System_for_Assessing_the_Severity_of_Pneumonia)
 * [Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/pdf/2405.18357) (PDF) ([Code](https://github.com/Aiden0526/SymbCoT))
 * [Towards Safe Autonomous Driving Policies Using a Neuro-Symbolic Deep Reinforcement Learning Approach](https://arxiv.org/pdf/2307.01316) (PDF) ([Code](https://github.com/CAV-Research-Lab/Safe-Reinforcement-Learning-using-Symbolic-Logical-Programming-for-Autonomous-Highway-Driving))
+* [Deep Reinforcement Learning for Mahjong](https://victorzxy.github.io/project/meowjong/BA-Dissertation-Meowjong.pdf) (PDF)
+* [Towards a Competitive 3-Player Mahjong AI using Deep Reinforcement Learning](https://victorzxy.github.io/publication/2022-meowjong-auxiliary/Towards_a_Competitive_3-Player_Mahjong_AI_using_Deep_Reinforcement_Learning.pdf) (PDF) ([Code](https://github.com/VictorZXY/Meowjong))
+* [DeepProbLog: Neural Probabilistic Logic Programming](https://papers.nips.cc/paper/2018/hash/dc5d637ed5e62c36ecb73b654b05ba2a-Abstract.html)
+* [Neural probabilistic logic programming in DeepProbLog](https://www.sciencedirect.com/science/article/abs/pii/S0004370221000552)
+* [Approximate Inference for Neural Probabilistic Logic Programming](https://proceedings.kr.org/2021/45/)
+* [Span-based Semantic Parsing for Compositional Generalization](https://aclanthology.org/2021.acl-long.74.pdf) (PDF) ([Code](https://github.com/jonathanherzig/span-based-sp))
+* [Learning programs with magic values](https://arxiv.org/pdf/2208.03238) (PDF) ([Code](https://github.com/celinehocquette/magicpopper))
+* [Ambiguity-Aware Abductive Learning](https://www.lamda.nju.edu.cn/xiez/assets/pdf/icml24-hehy.pdf) (PDF) ([Code](https://github.com/Hao-Yuan-He/A3BL))
 
 ## Blog Posts
 
@@ -75,7 +83,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [lib-annotated-attack-trees](https://github.com/yramirezc/lib-annotated-attack-trees) Scripts and resources for creating a library of annotated attack trees and using it to refine an annotated attack tree.
 * [ClIDE](https://github.com/skeledrew/clide) Command-line Intelligent Development Environment
 * [Artificial Intelligence INF1771 @ PUC-Rio](https://github.com/leotok/INF1771) Projects for the Artificial Intelligence class @ PUC-Rio
-* [AutomobileAdvisor](https://github.com/liscju/AutomobileAdvisor) Projekt na systemy ekspertowe pomagający wybrać odpowiedni samochód dla danego klienta na podstawie preferencji (Polish)
+  * [AutomobileAdvisor](https://github.com/liscju/AutomobileAdvisor) Projekt na systemy ekspertowe pomagający wybrać odpowiedni samochód dla danego klienta na podstawie preferencji (Polish)
 * [Prolog Tetris AI](https://sourceforge.net/projects/prologtetrisai/)
 * [Jupyter SWI Prolog](https://github.com/targodan/jupyter-swi-prolog) A Jupyter Kernel for SWI-Prolog.
 * [Blocks World Planner](https://github.com/davideiacobs/BlocksWorldPlanner) A program that allows users to solve the blocks world problem interacting only using the natural language.
@@ -88,6 +96,8 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Trabajo Final](https://github.com/NicolasLeidi/Trabajo-Final) Ingeniería para Sistemas de Información (Spanish)
 * [norms-games](https://github.com/nmontesg/norms-games) Integration of normative systems and game theory
 * [NAAV Language](https://github.com/atharva-date/SER502-NAAV-Team17)
+* [Tilde](https://github.com/joschout/tilde) Top-down induction of first-order logical decision trees
+* [Knowledge Based QA System with Python and Prolog](https://github.com/kmtusher97/Knowledge-Based-QA-System-with-Python-and-Prolog) Simple ChatBot
 
 ## Videos
 
