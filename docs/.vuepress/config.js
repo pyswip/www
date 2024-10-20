@@ -18,12 +18,12 @@ export default defineUserConfig({
       '/community',
       {
         "text": "Documentation",
-        "link": "https://pyswip.readthedocs.io/en/latest",
+        "link": "https://pyswip.readthedocs.io/en/stable/",
         "target": "_blank",
       },
       {
         "text": "Source",
-        "link": "https://github.com/yuce/pyswip",
+        "link": "https://github.com/yuce/pyswip/",
         "target": "_blank",
       }
     ],
