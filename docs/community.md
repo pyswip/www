@@ -49,6 +49,8 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Continuous QoS-compliant orchestration in the Cloud-Edge continuum](https://onlinelibrary.wiley.com/doi/10.1002/spe.3334) ([Code](https://github.com/di-unipi-socc/FogArm))
 * [ProPy: Prolog-based Fault Localization Tool for Python](https://ieeexplore.ieee.org/document/9825788)
 * [Building a Fuzzy Expert System for Assessing the Severity of Pneumonia](https://www.researchgate.net/publication/363190862_Building_a_Fuzzy_Expert_System_for_Assessing_the_Severity_of_Pneumonia)
+* [Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/pdf/2405.18357) (PDF) ([Code](https://github.com/Aiden0526/SymbCoT))
+* [Towards Safe Autonomous Driving Policies Using a Neuro-Symbolic Deep Reinforcement Learning Approach](https://arxiv.org/pdf/2307.01316) (PDF) ([Code](https://github.com/CAV-Research-Lab/Safe-Reinforcement-Learning-using-Symbolic-Logical-Programming-for-Autonomous-Highway-Driving))
 
 ## Blog Posts
 
