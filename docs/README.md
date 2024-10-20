@@ -4,7 +4,7 @@ title: Home
 heroImage: /images/pyswip_logo_sm_256colors.gif
 actions:
   - text: Get Started
-    link: https://pyswip.readthedocs.io/en/latest/get_started.html
+    link: https://pyswip.readthedocs.io/en/stable/get_started.html
     type: primary
 
   - text: What's New?
