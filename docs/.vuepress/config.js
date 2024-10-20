@@ -18,7 +18,7 @@ export default defineUserConfig({
 
   plugins: [
       sitemapPlugin({
-        host: 'https://pyswip.org',
+        hostname: 'https://pyswip.org',
       })
   ],
 
