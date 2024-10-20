@@ -20,4 +20,4 @@ See [What's New in v0.3.1](whats-new/v0.3.1)
 
 ## Old Versions
 
-See [What's New in Old Versions](whats-new/archive.md)
+See the [Archived Versions](whats-new/archive.md)
