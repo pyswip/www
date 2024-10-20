@@ -4,11 +4,11 @@ title: Home
 heroImage: /images/pyswip_logo_sm_256colors.gif
 actions:
   - text: Get Started
-    link: /get-started.html
+    link: https://pyswip.readthedocs.io/en/latest/get_started.html
     type: primary
 
-  - text: Source
-    link: https://github.com/yuce/pyswip
+  - text: What's New?
+    link: change-log
     type: secondary
 
 features:
@@ -19,5 +19,5 @@ features:
   - title: Community
     details: PySwip is maintained by its community. It was used in PhD and master's theses, scientific papers,  student projects and a book.
 
-footer: MIT Licensed | Copyright © 2024 Yüce Tekol and PySwip Contributors
+footer: Copyright © 2024 Yüce Tekol and PySwip Contributors
 ---

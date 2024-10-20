@@ -12,7 +12,21 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: '/images/pyswip_logo_sm_256colors.gif',
 
-    navbar: ['/', '/get-started', '/community', '/change-log'],
+    navbar: [
+      '/',
+      '/change-log',
+      '/community',
+      {
+        "text": "Documentation",
+        "link": "https://pyswip.readthedocs.io/en/latest",
+        "target": "_blank",
+      },
+      {
+        "text": "Source",
+        "link": "https://github.com/yuce/pyswip",
+        "target": "_blank",
+      }
+    ],
 
   }),
 
