@@ -98,6 +98,8 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [NAAV Language](https://github.com/atharva-date/SER502-NAAV-Team17)
 * [Tilde](https://github.com/joschout/tilde) Top-down induction of first-order logical decision trees
 * [Knowledge Based QA System with Python and Prolog](https://github.com/kmtusher97/Knowledge-Based-QA-System-with-Python-and-Prolog) Simple ChatBot
+* [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/pdf/2305.12295) (PDF) ([Code](https://github.com/teacherpeterpan/Logic-LLM))
+* [Learning MDL Logic Programs From Noisy Data](https://arxiv.org/pdf/2308.09393) (PDF) ([Code](https://github.com/celinehocquette/aaai24-maxsynth))
 
 ## Videos
 
