@@ -59,6 +59,10 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Span-based Semantic Parsing for Compositional Generalization](https://aclanthology.org/2021.acl-long.74.pdf) (PDF) ([Code](https://github.com/jonathanherzig/span-based-sp))
 * [Learning programs with magic values](https://arxiv.org/pdf/2208.03238) (PDF) ([Code](https://github.com/celinehocquette/magicpopper))
 * [Ambiguity-Aware Abductive Learning](https://www.lamda.nju.edu.cn/xiez/assets/pdf/icml24-hehy.pdf) (PDF) ([Code](https://github.com/Hao-Yuan-He/A3BL))
+* [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/pdf/2305.12295) (PDF) ([Code](https://github.com/teacherpeterpan/Logic-LLM))
+* [Learning MDL Logic Programs From Noisy Data](https://arxiv.org/pdf/2308.09393) (PDF) ([Code](https://github.com/celinehocquette/aaai24-maxsynth))
+* [Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/pdf/2405.18357) (PDF) ([Code](https://github.com/Aiden0526/SymbCoT))
+
 
 ## Blog Posts
 
@@ -98,9 +102,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [NAAV Language](https://github.com/atharva-date/SER502-NAAV-Team17)
 * [Tilde](https://github.com/joschout/tilde) Top-down induction of first-order logical decision trees
 * [Knowledge Based QA System with Python and Prolog](https://github.com/kmtusher97/Knowledge-Based-QA-System-with-Python-and-Prolog) Simple ChatBot
-* [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/pdf/2305.12295) (PDF) ([Code](https://github.com/teacherpeterpan/Logic-LLM))
-* [Learning MDL Logic Programs From Noisy Data](https://arxiv.org/pdf/2308.09393) (PDF) ([Code](https://github.com/celinehocquette/aaai24-maxsynth))
-* [Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/pdf/2405.18357) (PDF) ([Code](https://github.com/Aiden0526/SymbCoT))
+* [Diagnosis of diseases based on symptoms](https://github.com/macio-matheus/diagnosis-disease-based-symptoms)
 
 ## Videos
 
