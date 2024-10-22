@@ -100,6 +100,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Knowledge Based QA System with Python and Prolog](https://github.com/kmtusher97/Knowledge-Based-QA-System-with-Python-and-Prolog) Simple ChatBot
 * [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/pdf/2305.12295) (PDF) ([Code](https://github.com/teacherpeterpan/Logic-LLM))
 * [Learning MDL Logic Programs From Noisy Data](https://arxiv.org/pdf/2308.09393) (PDF) ([Code](https://github.com/celinehocquette/aaai24-maxsynth))
+* [Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/pdf/2405.18357) (PDF) ([Code](https://github.com/Aiden0526/SymbCoT))
 
 ## Videos
 
