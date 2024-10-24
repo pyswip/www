@@ -26,7 +26,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Assessment of Graph Databases as a Viable Materiel Solution for the Army's Dynamic Force Structure (DFS) Portal Implementation: Part 3, Risks, Mitigation Approach, and Roadmap](https://www.researchgate.net/publication/321977892_Assessment_of_Graph_Databases_as_a_Viable_Materiel_Solution_for_the_Army's_Dynamic_Force_Structure_DFS_Portal_Implementation_Part_3_Risks_Mitigation_Approach_and_Roadmap_Assessment_of_Graph_Databases_)
 * [Tackling Complexity in High Performance Computing Applications](https://link.springer.com/article/10.1007/s10766-016-0422-9)
 * [Social Human-Robot Interaction: A New Cognitive and Affective Interaction-Oriented Architecture](https://www.springer.com/gp/book/9783319474366)
-* [A Planning Module for a ROS-Based Ubiquitous Robot Control System](https://dspace.library.uu.nl/bitstream/handle/1874/292669/2014-03-27%20MSc%20Thesis%20Pieterjan%20van%20Gastel.pdf) (PDF)
+* [A Planning Module for a ROS-Based Ubiquitous Robot Control System](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/16508/2014-03-27%20MSc%20Thesis%20Pieterjan%20van%20Gastel.pdf?sequence=2&isAllowed=y) (PDF)
 * [A pilot framework developed as a common platform integrating diverse elements of computer aided fixture design](https://www.tandfonline.com/doi/full/10.1080/00207543.2013.832000)
 * [Integration von Prolog und ClioPatria in Python](http://www1.pub.informatik.uni-wuerzburg.de/pub/theses/2017-bodenlos-master.pdf) (PDF, German)
 * [SELECTSCRIPT: A Query Language for Robotic World Models and Simulations](https://ieeexplore.ieee.org/document/7140077/)
@@ -44,7 +44,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Information Retrieval Based on Knowledge-Enhanced Word Embedding Through Dialog: A Case Study](https://www.atlantis-press.com/journals/ijcis/125936225/view)
 * [Exploring the world of declarative programming](https://fedoramagazine.org/exploring-the-world-of-declarative-programming/)
 * [Development of a Prototype of a Medical Application Using a Type-2 Fuzzy Inference System](https://www.researchgate.net/publication/377771997_Development_of_a_Prototype_of_a_Medical_Application_Using_a_Type-2_Fuzzy_Inference_System)
-* [Learning Where and When to Reason in Neuro-Symbolic Inference](https://openreview.net/pdf?id=en9V5F8PR) (PDF)
+* [Learning Where and When to Reason in Neuro-Symbolic Inference](https://openreview.net/pdf?id=en9V5F8PR-) (PDF)
 * [MMDect: Metamorphic Malware Detection Using Logic Programming](http://platon.etsii.urjc.es/~jarias/tfg/23-Luciana.pdf) (PDF)
 * [Continuous QoS-compliant orchestration in the Cloud-Edge continuum](https://onlinelibrary.wiley.com/doi/10.1002/spe.3334) ([Code](https://github.com/di-unipi-socc/FogArm))
 * [ProPy: Prolog-based Fault Localization Tool for Python](https://ieeexplore.ieee.org/document/9825788)
@@ -64,6 +64,10 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/pdf/2405.18357) (PDF) ([Code](https://github.com/Aiden0526/SymbCoT))
 * [Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs](https://arxiv.org/pdf/2311.09802) (PDF) ([Code](https://github.com/DAMO-NLP-SG/CaRing))
 * [Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models](https://arxiv.org/pdf/2406.11736) (PDF) ([Code](https://github.com/xufangzhi/ENVISIONS))
+* [Few-Shot Learning for Plant Disease Classification Using ILP](https://link.springer.com/chapter/10.1007/978-3-031-35641-4_26)
+* [Development of a Prototype of a Medical Application Using a Type-2 Fuzzy Inference System](https://link.springer.com/chapter/10.1007/978-3-031-51521-7_20)
+* [Diagnosis of diseases based on symptoms](https://github.com/macio-matheus/diagnosis-disease-based-symptoms)
+* [Building a Fuzzy Expert System for Assessing the Severity of Pneumonia](https://link.springer.com/chapter/10.1007/978-3-031-16075-2_27)
 
 
 ## Blog Posts
@@ -104,7 +108,6 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [NAAV Language](https://github.com/atharva-date/SER502-NAAV-Team17)
 * [Tilde](https://github.com/joschout/tilde) Top-down induction of first-order logical decision trees
 * [Knowledge Based QA System with Python and Prolog](https://github.com/kmtusher97/Knowledge-Based-QA-System-with-Python-and-Prolog) Simple ChatBot
-* [Diagnosis of diseases based on symptoms](https://github.com/macio-matheus/diagnosis-disease-based-symptoms)
 
 ## Videos
 
