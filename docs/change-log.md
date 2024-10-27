@@ -1,6 +1,6 @@
 # What's New?
 
-## v0.3.2 (Cooking)
+## v0.3.2
 
 See [What's New in v0.3.2](whats-new/v0.3.2)
 
