@@ -61,7 +61,6 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Ambiguity-Aware Abductive Learning](https://www.lamda.nju.edu.cn/xiez/assets/pdf/icml24-hehy.pdf) (PDF) ([Code](https://github.com/Hao-Yuan-He/A3BL))
 * [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/pdf/2305.12295) (PDF) ([Code](https://github.com/teacherpeterpan/Logic-LLM))
 * [Learning MDL Logic Programs From Noisy Data](https://arxiv.org/pdf/2308.09393) (PDF) ([Code](https://github.com/celinehocquette/aaai24-maxsynth))
-* [Faithful Logical Reasoning via Symbolic Chain-of-Thought](https://arxiv.org/pdf/2405.18357) (PDF) ([Code](https://github.com/Aiden0526/SymbCoT))
 * [Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs](https://arxiv.org/pdf/2311.09802) (PDF) ([Code](https://github.com/DAMO-NLP-SG/CaRing))
 * [Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models](https://arxiv.org/pdf/2406.11736) (PDF) ([Code](https://github.com/xufangzhi/ENVISIONS))
 * [Few-Shot Learning for Plant Disease Classification Using ILP](https://link.springer.com/chapter/10.1007/978-3-031-35641-4_26)
@@ -108,6 +107,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [NAAV Language](https://github.com/atharva-date/SER502-NAAV-Team17)
 * [Tilde](https://github.com/joschout/tilde) Top-down induction of first-order logical decision trees
 * [Knowledge Based QA System with Python and Prolog](https://github.com/kmtusher97/Knowledge-Based-QA-System-with-Python-and-Prolog) Simple ChatBot
+* [Logical](https://github.com/Hendler/logical) ChatGPT logic engine using Prolog
 
 ## Videos
 
