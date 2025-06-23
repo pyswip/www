@@ -1,5 +1,9 @@
 # What's New?
 
+## v0.3.3
+
+See [What's New in v0.3.3](whats-new/v0.3.3)
+
 ## v0.3.2
 
 See [What's New in v0.3.2](whats-new/v0.3.2)

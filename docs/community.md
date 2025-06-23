@@ -67,7 +67,9 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Development of a Prototype of a Medical Application Using a Type-2 Fuzzy Inference System](https://link.springer.com/chapter/10.1007/978-3-031-51521-7_20)
 * [Diagnosis of diseases based on symptoms](https://github.com/macio-matheus/diagnosis-disease-based-symptoms)
 * [Building a Fuzzy Expert System for Assessing the Severity of Pneumonia](https://link.springer.com/chapter/10.1007/978-3-031-16075-2_27)
-
+* [ViLLa: A Neuro-Symbolic approach for Animal Monitoring](https://arxiv.org/abs/2506.14823v1)
+* [From Reasoning to Code: GRPO Optimization for Underrepresented Languages](https://arxiv.org/abs/2506.11027)
+* [Integrating expert knowledge with machine learning for AI-based stroke identifications and treatment systems](https://pmc.ncbi.nlm.nih.gov/articles/PMC12048753/)
 
 ## Blog Posts
 
@@ -92,7 +94,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [lib-annotated-attack-trees](https://github.com/yramirezc/lib-annotated-attack-trees) Scripts and resources for creating a library of annotated attack trees and using it to refine an annotated attack tree.
 * [ClIDE](https://github.com/skeledrew/clide) Command-line Intelligent Development Environment
 * [Artificial Intelligence INF1771 @ PUC-Rio](https://github.com/leotok/INF1771) Projects for the Artificial Intelligence class @ PUC-Rio
-  * [AutomobileAdvisor](https://github.com/liscju/AutomobileAdvisor) Projekt na systemy ekspertowe pomagający wybrać odpowiedni samochód dla danego klienta na podstawie preferencji (Polish)
+* [AutomobileAdvisor](https://github.com/liscju/AutomobileAdvisor) Projekt na systemy ekspertowe pomagający wybrać odpowiedni samochód dla danego klienta na podstawie preferencji (Polish)
 * [Prolog Tetris AI](https://sourceforge.net/projects/prologtetrisai/)
 * [Jupyter SWI Prolog](https://github.com/targodan/jupyter-swi-prolog) A Jupyter Kernel for SWI-Prolog.
 * [Blocks World Planner](https://github.com/davideiacobs/BlocksWorldPlanner) A program that allows users to solve the blocks world problem interacting only using the natural language.
@@ -108,6 +110,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Tilde](https://github.com/joschout/tilde) Top-down induction of first-order logical decision trees
 * [Knowledge Based QA System with Python and Prolog](https://github.com/kmtusher97/Knowledge-Based-QA-System-with-Python-and-Prolog) Simple ChatBot
 * [Logical](https://github.com/Hendler/logical) ChatGPT logic engine using Prolog
+* [An expert system for recommending restaurants in Buenos Aires using Prolog and PySwip](https://github.com/RisticDjordje/prolog-expert-system-with-pyswip)
 
 ## Videos
 
