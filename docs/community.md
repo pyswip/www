@@ -63,7 +63,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Deep Reinforcement Learning for Mahjong](https://victorzxy.github.io/project/meowjong/BA-Dissertation-Meowjong.pdf) (PDF)
 * [Neural probabilistic logic programming in DeepProbLog](https://www.sciencedirect.com/science/article/abs/pii/S0004370221000552) ([Code](https://github.com/ML-KULeuven/deepproblog))
 * [Span-based Semantic Parsing for Compositional Generalization](https://aclanthology.org/2021.acl-long.74.pdf) (PDF) ([Code](https://github.com/jonathanherzig/span-based-sp))
-
+* [Ordering Subgoals in a Backward Chaining Prover](https://aitp-conference.org/2021/abstract/paper_14.pdf)
 
 ### 2020
 
