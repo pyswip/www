@@ -44,6 +44,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Ambiguity-Aware Abductive Learning](https://www.lamda.nju.edu.cn/xiez/assets/pdf/icml24-hehy.pdf) (PDF) ([Code](https://github.com/Hao-Yuan-He/A3BL))
 * [Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models](https://arxiv.org/pdf/2406.11736) (PDF) ([Code](https://github.com/xufangzhi/ENVISIONS))
 * [Development of a Prototype of a Medical Application Using a Type-2 Fuzzy Inference System](https://link.springer.com/chapter/10.1007/978-3-031-51521-7_20)
+* [Drowzee: Metamorphic Testing for Fact-Conflicting Hallucination Detection in Large Language Models](https://arxiv.org/abs/2405.00648) ([Code](https://github.com/security-pride/Drowzee))
 
 ### 2023
 
@@ -53,13 +54,13 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/pdf/2305.12295) (PDF) ([Code](https://github.com/teacherpeterpan/Logic-LLM))
 * [Learning MDL Logic Programs From Noisy Data](https://arxiv.org/pdf/2308.09393) (PDF) ([Code](https://github.com/celinehocquette/aaai24-maxsynth))
 * [Few-Shot Learning for Plant Disease Classification Using ILP](https://link.springer.com/chapter/10.1007/978-3-031-35641-4_26)
+* [Learning programs with magic values](https://link.springer.com/article/10.1007/s10994-022-06274-w) (PDF) ([Code](https://github.com/celinehocquette/magicpopper))
 
 ### 2022
 
 * [ProPy: Prolog-based Fault Localization Tool for Python](https://ieeexplore.ieee.org/document/9825788)
 * [Building a Fuzzy Expert System for Assessing the Severity of Pneumonia](https://www.researchgate.net/publication/363190862_Building_a_Fuzzy_Expert_System_for_Assessing_the_Severity_of_Pneumonia)
 * [Towards a Competitive 3-Player Mahjong AI using Deep Reinforcement Learning](https://victorzxy.github.io/publication/2022-meowjong-auxiliary/Towards_a_Competitive_3-Player_Mahjong_AI_using_Deep_Reinforcement_Learning.pdf) (PDF) ([Code](https://github.com/VictorZXY/Meowjong))
-* [Learning programs with magic values](https://arxiv.org/pdf/2208.03238) (PDF) ([Code](https://github.com/celinehocquette/magicpopper))
 * [Building a Fuzzy Expert System for Assessing the Severity of Pneumonia](https://link.springer.com/chapter/10.1007/978-3-031-16075-2_27)
 
 ### 2021
@@ -74,12 +75,12 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Fact-Based Expert System for Supplier Selection with ERP Data](https://link.springer.com/chapter/10.1007/978-981-15-1041-0_3)
 * [Interactive Text Graph Mining with a Prolog-based Dialog Engine](https://link.springer.com/chapter/10.1007/978-3-030-39197-3_1)
 * [Information Retrieval Based on Knowledge-Enhanced Word Embedding Through Dialog: A Case Study](https://www.atlantis-press.com/journals/ijcis/125936225/view)
+* [Prolog Technology Reinforcement Learning Prover](https://arxiv.org/abs/2004.06997)([Code](https://github.com/zsoltzombori/plcop))
 
 ### 2019
 
 * [The Detection Of Conflicts In The Requirements Specification Based On An Ontological Model And A Production Rule System](https://www.researchgate.net/publication/337655252_The_detection_of_conflicts_in_the_requirements_specification_based_on_an_ontological_model_and_a_production_rule_system)
 * [Dependency-based Text Graphs for Keyphrase and Summary Extraction with Applications to Interactive Content Retrieval](https://arxiv.org/pdf/1909.09742.pdf) (PDF)
-
 
 ### 2018
 
@@ -128,11 +129,13 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Implementing Prolog in Python Using VS Code and Google Colab](https://medium.com/@alihassanshahid/implementing-prolog-in-python-using-vs-code-and-colab-e0f5c9adce02)
 * [A Coding Guide to Build a Tool-Calling ReAct Agent Fusing Prolog Logic with Gemini and LangGraph](https://www.marktechpost.com/2025/07/24/a-coding-guide-to-build-a-tool-calling-react-agent-fusing-prolog-logic-with-gemini-and-langgraph/)
 * [Neurosymbolic AI for Data Industry: End-to-End Guide for Domain-Based Models](https://www.linkedin.com/pulse/neurosymbolic-ai-data-industry-end-to-end-guide-abbas-moynudeen-nzpwc) (Linkedin)
+* [Getting Prolog running inside Python](https://steveslab.substack.com/p/getting-prolog-running-inside-python)
 
 ### 2024
 
 * [Playing with Prolog – Prolog’s Role in the LLM Era, Part 3](https://eugeneasahara.com/2024/08/12/playing-with-prolog-prologs-role-in-the-llm-era-part-3/)
 * [Prolog and ML Models – Prolog’s Role in the LLM Era, Part 4](https://eugeneasahara.com/2024/08/15/prolog-and-ml-models-prologs-role-in-the-llm-era-part-4/)
+* [Neural-Symbolic Computing: Bridging Logic and Learning — A Practical Guide](https://medium.com/@heyamit10/neural-symbolic-computing-bridging-logic-and-learning-a-practical-guide-03aa2db70563)
 
 ### 2021
 
@@ -196,6 +199,10 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Restaurant Recommendation System](https://github.com/hasnainmumtaz/Pyswip-Restuarant-Recommendation)
 * [Family-bot: A chatbot programmed using pyswip and prolog](https://github.com/falarion08/family-bot)
 * [FlorenceBot: A fully interactive domain-specific chatbot implemented using Prolog and PySwip](https://github.com/Lombavix-Team/FlorenceBot)
+* ["Natural" Natural Deduction](https://github.com/flijnzaad/natural-natural-deduction)
+* [Mosquitoes-Simulation](https://github.com/sebagonz106/Mosquitoes-Simulation)
+* [Prolog-Driven Rule-Based Diagnostics with Large Language Models for Precise Clinical Decision Support](https://github.com/testlbin/procds)
+* [LuckyMera: a Modular AI Framework for Building Hybrid NetHack Agents](https://github.com/Pervasive-AI-Lab/LuckyMera)
 
 ## Videos
 
@@ -222,3 +229,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5xDqp_lYlcM?si=UZom-nKN3zrX8Wzd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Curso Básico de Prolog: 4 - Interconectando Python con Prolog a través de PySwip](https://www.youtube.com/watch?v=5xDqp_lYlcM) (Spanish)
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=F9h2JOtPaoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Tubes EAS Matdis: Inferensi Knowledge Base menggunakan FOL, PySwip, Streamlit (supermarket together)](https://www.youtube.com/watch?v=F9h2JOtPaoQ) (Malay)
