@@ -23,6 +23,10 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 
 ## Publications
 
+### 2026
+
+* [Compliance as a Trust Metric](https://arxiv.org/pdf/2601.01287v1) (PDF)
+
 ### 2025
 
 * [On Bridging Prolog and Python to Enhance an Inductive Logic Programming System](https://link.springer.com/chapter/10.1007/978-3-031-84924-4_1)
@@ -119,6 +123,12 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 
 * [Neurosymbolic AI: The Bridge Between Deep Learning and Symbolic Reasoning](https://atalupadhyay.wordpress.com/2026/01/06/neurosymbolic-ai-the-bridge-between-deep-learning-and-symbolic-reasoning/)
 
+### 2025
+
+* [Implementing Prolog in Python Using VS Code and Google Colab](https://medium.com/@alihassanshahid/implementing-prolog-in-python-using-vs-code-and-colab-e0f5c9adce02)
+* [A Coding Guide to Build a Tool-Calling ReAct Agent Fusing Prolog Logic with Gemini and LangGraph](https://www.marktechpost.com/2025/07/24/a-coding-guide-to-build-a-tool-calling-react-agent-fusing-prolog-logic-with-gemini-and-langgraph/)
+* [Neurosymbolic AI for Data Industry: End-to-End Guide for Domain-Based Models](https://www.linkedin.com/pulse/neurosymbolic-ai-data-industry-end-to-end-guide-abbas-moynudeen-nzpwc) (Linkedin)
+
 ### 2024
 
 * [Playing with Prolog – Prolog’s Role in the LLM Era, Part 3](https://eugeneasahara.com/2024/08/12/playing-with-prolog-prologs-role-in-the-llm-era-part-3/)
@@ -178,7 +188,10 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Propositional Logic/First Order Logic AI Agent in Wumpus world](https://github.com/fabioo29/ai-wumpus-world)
 * [An Implementation of MeTTa designed to run on the Warren Abstract Machine (WAM)](https://github.com/trueagi-io/metta-wam)
 * [Diagnosis of diseases based on symptoms](https://github.com/macio-matheus/diagnosis-disease-based-symptoms)
-
+* [PEIRCE: Unifying Material and Formal Reasoning via LLM-Driven Neuro-Symbolic Refinement](https://github.com/neuro-symbolic-ai/peirce)
+* [Akinator - The Mind-Reading AI](https://github.com/seghiranass/Akinator)
+* [Expert System in Prolog for Cardiovascular Disease Diagnosis](https://www.linkedin.com/posts/assiabouamir_prolog-expertsystem-logicprogramming-activity-7292245740142092288-3GpW) (Linkedin)
+* [Neurosymbolic AI for Data Industry: End-to-End Guide for Domain-Based Models](https://www.linkedin.com/pulse/neurosymbolic-ai-data-industry-end-to-end-guide-abbas-moynudeen-nzpwc) (Linkedin)
 
 ## Videos
 
