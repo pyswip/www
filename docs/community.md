@@ -192,6 +192,10 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Akinator - The Mind-Reading AI](https://github.com/seghiranass/Akinator)
 * [Expert System in Prolog for Cardiovascular Disease Diagnosis](https://www.linkedin.com/posts/assiabouamir_prolog-expertsystem-logicprogramming-activity-7292245740142092288-3GpW) (Linkedin)
 * [Neurosymbolic AI for Data Industry: End-to-End Guide for Domain-Based Models](https://www.linkedin.com/pulse/neurosymbolic-ai-data-industry-end-to-end-guide-abbas-moynudeen-nzpwc) (Linkedin)
+* [LLM Prolog Code Interpreter Tool](https://github.com/zestor/prolog-code-interpreter)
+* [Restaurant Recommendation System](https://github.com/hasnainmumtaz/Pyswip-Restuarant-Recommendation)
+* [Family-bot: A chatbot programmed using pyswip and prolog](https://github.com/falarion08/family-bot)
+* [FlorenceBot: A fully interactive domain-specific chatbot implemented using Prolog and PySwip](https://github.com/Lombavix-Team/FlorenceBot)
 
 ## Videos
 
