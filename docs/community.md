@@ -159,50 +159,49 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 
 ## Projects
 
-* [noworkflow](https://github.com/gems-uff/noworkflow) Supporting infrastructure to run scientific experiments without a scientific workflow management system. http://gems-uff.github.io/noworkflow
-* [Super Pacman](https://github.com/kajornsakp/prologProject)
-* [Pokemon Weak Detector](https://github.com/ReiiYuki/PokemonWeakDetector)
-* [Food Recommendations in Hyderabad, India](https://github.com/cindyleowtt/prolog_food) Food Recommendation AI Expert System using a GUI hosted on Flask and a backend developed with PYSWIP and native Prolog.
-* [pyswip_envctrl](https://github.com/2rs2ts/pyswip_envctrl) An environment control module expert system written in PySwip.
-* [tic-tac-toe](https://github.com/ivpusic/tic-tac-toe) Tic-tac-toe game with AI in Prolog and GUI in Python (kivy framework + pyswip).
-* [TBM1 - "Getting to Know My Home"](http://thewiki.rockinrobotchallenge.eu/index.php?title=TBM1_-_“Getting_to_Know_My_Home”)
-* [Prolog natural language parsing component to control a Scribbler II robot over bluetooth](http://justinmangue.com/blog/scribpro-py/)
-* [Cosmos](https://github.com/mcsoto/cosmos) A new logic programming language.
-* [lib-annotated-attack-trees](https://github.com/yramirezc/lib-annotated-attack-trees) Scripts and resources for creating a library of annotated attack trees and using it to refine an annotated attack tree.
-* [ClIDE](https://github.com/skeledrew/clide) Command-line Intelligent Development Environment
+* ["Natural" Natural Deduction](https://github.com/flijnzaad/natural-natural-deduction)
+* [Akinator - The Mind-Reading AI](https://github.com/seghiranass/Akinator)
+* [An Implementation of MeTTa designed to run on the Warren Abstract Machine (WAM)](https://github.com/trueagi-io/metta-wam)
+* [An expert system for recommending restaurants in Buenos Aires using Prolog and PySwip](https://github.com/RisticDjordje/prolog-expert-system-with-pyswip)
 * [Artificial Intelligence INF1771 @ PUC-Rio](https://github.com/leotok/INF1771) Projects for the Artificial Intelligence class @ PUC-Rio
 * [AutomobileAdvisor](https://github.com/liscju/AutomobileAdvisor) Projekt na systemy ekspertowe pomagający wybrać odpowiedni samochód dla danego klienta na podstawie preferencji (Polish)
-* [Prolog Tetris AI](https://sourceforge.net/projects/prologtetrisai/)
-* [Jupyter SWI Prolog](https://github.com/targodan/jupyter-swi-prolog) A Jupyter Kernel for SWI-Prolog.
 * [Blocks World Planner](https://github.com/davideiacobs/BlocksWorldPlanner) A program that allows users to solve the blocks world problem interacting only using the natural language.
-* [DeepTalk](https://github.com/ptarau/DeepTalk) A Python+Prolog based Dialog Engine using the Python package text_graph_crafts that extracts the highest ranked sentences answering a query.
+* [ClIDE](https://github.com/skeledrew/clide) Command-line Intelligent Development Environment
+* [Cosmos](https://github.com/mcsoto/cosmos) A new logic programming language.
 * [DeepRank](https://github.com/ptarau/DeepRank) The system uses dependency links for building Text Graphs, that with help of a centrality algorithm like PageRank, extract relevant keyphrases, summaries and relations from text documents.
-* [Prolog Tic-tac-toe](https://github.com/guyzyl/prolog-tic-tac-toe) A full-stack tic-tac-toe game with AI in Prolog, backend in Python3 (+Flask) and frontend in Vue.js 3.
-* [MIDSI Project](https://github.com/devdaniellima/midsi) Solution for data discovery in projects applicable to the
-  Semantic Web, enabling the loading of ontologies and inference of results using the WSML language.
-* [Popper](https://github.com/logic-and-learning-lab/Popper) An inductive logic programming system
-* [Trabajo Final](https://github.com/NicolasLeidi/Trabajo-Final) Ingeniería para Sistemas de Información (Spanish)
-* [norms-games](https://github.com/nmontesg/norms-games) Integration of normative systems and game theory
-* [NAAV Language](https://github.com/atharva-date/SER502-NAAV-Team17)
-* [Tilde](https://github.com/joschout/tilde) Top-down induction of first-order logical decision trees
-* [Knowledge Based QA System with Python and Prolog](https://github.com/kmtusher97/Knowledge-Based-QA-System-with-Python-and-Prolog) Simple ChatBot
-* [Logical](https://github.com/Hendler/logical) ChatGPT logic engine using Prolog
-* [An expert system for recommending restaurants in Buenos Aires using Prolog and PySwip](https://github.com/RisticDjordje/prolog-expert-system-with-pyswip)
-* [Propositional Logic/First Order Logic AI Agent in Wumpus world](https://github.com/fabioo29/ai-wumpus-world)
-* [An Implementation of MeTTa designed to run on the Warren Abstract Machine (WAM)](https://github.com/trueagi-io/metta-wam)
+* [DeepTalk](https://github.com/ptarau/DeepTalk) A Python+Prolog based Dialog Engine using the Python package text_graph_crafts that extracts the highest ranked sentences answering a query.
 * [Diagnosis of diseases based on symptoms](https://github.com/macio-matheus/diagnosis-disease-based-symptoms)
-* [PEIRCE: Unifying Material and Formal Reasoning via LLM-Driven Neuro-Symbolic Refinement](https://github.com/neuro-symbolic-ai/peirce)
-* [Akinator - The Mind-Reading AI](https://github.com/seghiranass/Akinator)
 * [Expert System in Prolog for Cardiovascular Disease Diagnosis](https://www.linkedin.com/posts/assiabouamir_prolog-expertsystem-logicprogramming-activity-7292245740142092288-3GpW) (Linkedin)
-* [Neurosymbolic AI for Data Industry: End-to-End Guide for Domain-Based Models](https://www.linkedin.com/pulse/neurosymbolic-ai-data-industry-end-to-end-guide-abbas-moynudeen-nzpwc) (Linkedin)
-* [LLM Prolog Code Interpreter Tool](https://github.com/zestor/prolog-code-interpreter)
-* [Restaurant Recommendation System](https://github.com/hasnainmumtaz/Pyswip-Restuarant-Recommendation)
 * [Family-bot: A chatbot programmed using pyswip and prolog](https://github.com/falarion08/family-bot)
 * [FlorenceBot: A fully interactive domain-specific chatbot implemented using Prolog and PySwip](https://github.com/Lombavix-Team/FlorenceBot)
-* ["Natural" Natural Deduction](https://github.com/flijnzaad/natural-natural-deduction)
-* [Mosquitoes-Simulation](https://github.com/sebagonz106/Mosquitoes-Simulation)
-* [Prolog-Driven Rule-Based Diagnostics with Large Language Models for Precise Clinical Decision Support](https://github.com/testlbin/procds)
+* [Food Recommendations in Hyderabad, India](https://github.com/cindyleowtt/prolog_food) Food Recommendation AI Expert System using a GUI hosted on Flask and a backend developed with PYSWIP and native Prolog.
+* [Jupyter SWI Prolog](https://github.com/targodan/jupyter-swi-prolog) A Jupyter Kernel for SWI-Prolog.
+* [Knowledge Based QA System with Python and Prolog](https://github.com/kmtusher97/Knowledge-Based-QA-System-with-Python-and-Prolog) Simple ChatBot
+* [LLM Prolog Code Interpreter Tool](https://github.com/zestor/prolog-code-interpreter)
+* [Logical](https://github.com/Hendler/logical) ChatGPT logic engine using Prolog
 * [LuckyMera: a Modular AI Framework for Building Hybrid NetHack Agents](https://github.com/Pervasive-AI-Lab/LuckyMera)
+* [MIDSI Project](https://github.com/devdaniellima/midsi) Solution for data discovery in projects applicable to the Semantic Web, enabling the loading of ontologies and inference of results using the WSML language.
+* [Mosquitoes-Simulation](https://github.com/sebagonz106/Mosquitoes-Simulation)
+* [NAAV Language](https://github.com/atharva-date/SER502-NAAV-Team17)
+* [Neurosymbolic AI for Data Industry: End-to-End Guide for Domain-Based Models](https://www.linkedin.com/pulse/neurosymbolic-ai-data-industry-end-to-end-guide-abbas-moynudeen-nzpwc) (Linkedin)
+* [PEIRCE: Unifying Material and Formal Reasoning via LLM-Driven Neuro-Symbolic Refinement](https://github.com/neuro-symbolic-ai/peirce)
+* [Pokemon Weak Detector](https://github.com/ReiiYuki/PokemonWeakDetector)
+* [Popper](https://github.com/logic-and-learning-lab/Popper) An inductive logic programming system
+* [Prolog Tetris AI](https://sourceforge.net/projects/prologtetrisai/)
+* [Prolog Tic-tac-toe](https://github.com/guyzyl/prolog-tic-tac-toe) A full-stack tic-tac-toe game with AI in Prolog, backend in Python3 (+Flask) and frontend in Vue.js 3.
+* [Prolog natural language parsing component to control a Scribbler II robot over bluetooth](http://justinmangue.com/blog/scribpro-py/)
+* [Prolog-Driven Rule-Based Diagnostics with Large Language Models for Precise Clinical Decision Support](https://github.com/testlbin/procds)
+* [Propositional Logic/First Order Logic AI Agent in Wumpus world](https://github.com/fabioo29/ai-wumpus-world)
+* [Restaurant Recommendation System](https://github.com/hasnainmumtaz/Pyswip-Restuarant-Recommendation)
+* [Super Pacman](https://github.com/kajornsakp/prologProject)
+* [TBM1 - "Getting to Know My Home"](http://thewiki.rockinrobotchallenge.eu/index.php?title=TBM1_-_“Getting_to_Know_My_Home”)
+* [Tilde](https://github.com/joschout/tilde) Top-down induction of first-order logical decision trees
+* [Trabajo Final](https://github.com/NicolasLeidi/Trabajo-Final) Ingeniería para Sistemas de Información (Spanish)
+* [lib-annotated-attack-trees](https://github.com/yramirezc/lib-annotated-attack-trees) Scripts and resources for creating a library of annotated attack trees and using it to refine an annotated attack tree.
+* [norms-games](https://github.com/nmontesg/norms-games) Integration of normative systems and game theory
+* [noworkflow](https://github.com/gems-uff/noworkflow) Supporting infrastructure to run scientific experiments without a scientific workflow management system. http://gems-uff.github.io/noworkflow
+* [pyswip_envctrl](https://github.com/2rs2ts/pyswip_envctrl) An environment control module expert system written in PySwip.
+* [tic-tac-toe](https://github.com/ivpusic/tic-tac-toe) Tic-tac-toe game with AI in Prolog and GUI in Python (kivy framework + pyswip).
 
 ## Videos
 
