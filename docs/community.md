@@ -229,6 +229,6 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 
 [Curso Básico de Prolog: 4 - Interconectando Python con Prolog a través de PySwip](https://www.youtube.com/watch?v=5xDqp_lYlcM) (Spanish)
 
-<iframe width="560" height="315" src="https://youtu.be/F9h2JOtPaoQ?si=vZcQtrR8OB7NsP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F9h2JOtPaoQ?si=qVr6OmZkU_3Ymo8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Tubes EAS Matdis: Inferensi Knowledge Base menggunakan FOL, PySwip, Streamlit (supermarket together)](https://www.youtube.com/watch?v=F9h2JOtPaoQ) (Malay)
