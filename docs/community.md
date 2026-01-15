@@ -202,6 +202,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [noworkflow](https://github.com/gems-uff/noworkflow) Supporting infrastructure to run scientific experiments without a scientific workflow management system. http://gems-uff.github.io/noworkflow
 * [pyswip_envctrl](https://github.com/2rs2ts/pyswip_envctrl) An environment control module expert system written in PySwip.
 * [tic-tac-toe](https://github.com/ivpusic/tic-tac-toe) Tic-tac-toe game with AI in Prolog and GUI in Python (kivy framework + pyswip).
+* [NewGame+](https://github.com/osyounis/new_game_plus) A game recommendation system that suggests video games based on titles you've previously played.
 
 ## Videos
 
