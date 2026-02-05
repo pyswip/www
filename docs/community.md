@@ -123,6 +123,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 ### 2026
 
 * [Neurosymbolic AI: The Bridge Between Deep Learning and Symbolic Reasoning](https://atalupadhyay.wordpress.com/2026/01/06/neurosymbolic-ai-the-bridge-between-deep-learning-and-symbolic-reasoning/)
+* [Declarative Programming Approaches for Robust Anomaly Detection in HPDC Process Data](https://www.preprints.org/manuscript/202602.0035)
 
 ### 2025
 
@@ -233,3 +234,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F9h2JOtPaoQ?si=qVr6OmZkU_3Ymo8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Tubes EAS Matdis: Inferensi Knowledge Base menggunakan FOL, PySwip, Streamlit (supermarket together)](https://www.youtube.com/watch?v=F9h2JOtPaoQ) (Malay)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zh-pCRjkpFw?si=ss8H8d01coxGFPYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Prolog & Нейронні мережі. Prolog в Python](https://www.youtube.com/watch?v=zh-pCRjkpFw) (Ukrainian / English)
