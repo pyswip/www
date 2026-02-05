@@ -26,6 +26,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 ### 2026
 
 * [Compliance as a Trust Metric](https://arxiv.org/pdf/2601.01287v1) (PDF)
+* [Declarative Programming Approaches for Robust Anomaly Detection in HPDC Process Data](https://www.preprints.org/manuscript/202602.0035)
 
 ### 2025
 
@@ -123,7 +124,6 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 ### 2026
 
 * [Neurosymbolic AI: The Bridge Between Deep Learning and Symbolic Reasoning](https://atalupadhyay.wordpress.com/2026/01/06/neurosymbolic-ai-the-bridge-between-deep-learning-and-symbolic-reasoning/)
-* [Declarative Programming Approaches for Robust Anomaly Detection in HPDC Process Data](https://www.preprints.org/manuscript/202602.0035)
 
 ### 2025
 
