@@ -69,7 +69,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Deep Reinforcement Learning for Mahjong](https://victorzxy.github.io/project/meowjong/BA-Dissertation-Meowjong.pdf) (PDF)
 * [Neural probabilistic logic programming in DeepProbLog](https://www.sciencedirect.com/science/article/abs/pii/S0004370221000552) ([Code](https://github.com/ML-KULeuven/deepproblog))
 * [Span-based Semantic Parsing for Compositional Generalization](https://aclanthology.org/2021.acl-long.74.pdf) (PDF) ([Code](https://github.com/jonathanherzig/span-based-sp))
-* [Ordering Subgoals in a Backward Chaining Prover](https://aitp-conference.org/2021/abstract/paper_14.pdf)
+* [Ordering Subgoals in a Backward Chaining Prover](https://aitp-conference.org/2021/abstract/paper_14.pdf) (PDF)
 
 ### 2020
 
@@ -77,6 +77,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [Interactive Text Graph Mining with a Prolog-based Dialog Engine](https://link.springer.com/chapter/10.1007/978-3-030-39197-3_1)
 * [Information Retrieval Based on Knowledge-Enhanced Word Embedding Through Dialog: A Case Study](https://www.atlantis-press.com/journals/ijcis/125936225/view)
 * [Prolog Technology Reinforcement Learning Prover](https://arxiv.org/abs/2004.06997)([Code](https://github.com/zsoltzombori/plcop))
+* [LGPSolver - Solving Logic Grid Puzzles Automatically](https://aclanthology.org/2020.findings-emnlp.100.pdf) (PDF)
 
 ### 2019
 
