@@ -205,6 +205,7 @@ If you would like to reference PySwip in a LaTeX document, you can use the provi
 * [pyswip_envctrl](https://github.com/2rs2ts/pyswip_envctrl) An environment control module expert system written in PySwip.
 * [tic-tac-toe](https://github.com/ivpusic/tic-tac-toe) Tic-tac-toe game with AI in Prolog and GUI in Python (kivy framework + pyswip).
 * [NewGame+](https://github.com/osyounis/new_game_plus) A game recommendation system that suggests video games based on titles you've previously played.
+* [Music Genre Classifier Expert System](https://github.com/Povindu/Music-Genre-Classifier) A simple but powerful expert system that classifies music genres based on user-provided attributes.
 
 ## Videos
 
